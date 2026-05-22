@@ -4,58 +4,7 @@
 
 ### Backend Developer | Software Engineering Student | AI & Cloud Enthusiast
 
-<p>
-  <a href="https://github.com/hohoanghuy2k">
-    <img src="https://img.shields.io/github/followers/hohoanghuy2k?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/hohoanghuy2k">
-    <img src="https://img.shields.io/github/stars/hohoanghuy2k?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
-  </a>
-</p>
-
 </div>
-
----
-
-## 🚀 About Me
-
-I'm a Software Engineering student based in Melbourne, Australia, passionate about building scalable backend systems, cloud-native applications, and AI-powered solutions.
-
-Currently working as a Backend Developer Intern at **Focus Bear**, where I contribute to production-level systems using:
-
-- NestJS & TypeScript
-- BullMQ background jobs
-- AWS CloudWatch & ECS
-- Auth0 authentication systems
-- PostgreSQL & Redis
-- Sentry observability and performance monitoring
-
-I enjoy solving real-world engineering problems involving:
-- Performance optimization
-- Backend architecture
-- Distributed systems
-- Cloud infrastructure
-- AI & Machine Learning applications
-
----
-
-## 💼 Current Focus
-
-### 🔹 Backend Engineering @ Focus Bear
-Working on:
-- Background job architecture with BullMQ
-- Optimizing API performance and latency
-- Auth0 integration & caching strategies
-- Production observability with Sentry & AWS CloudWatch
-- Scalable NestJS backend services
-
-### 🔹 AI Healthcare Project — SACA
-Building an adaptive clinical assistant for remote Indigenous communities:
-- FastAPI backend
-- Machine Learning triage prediction
-- NLP-based symptom analysis
-- Multilingual support (Kriol)
-- Flutter frontend integration
 
 ---
 
@@ -64,6 +13,7 @@ Building an adaptive clinical assistant for remote Indigenous communities:
 ### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square)
 
@@ -112,36 +62,13 @@ Production backend engineering contributions involving:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hohoanghuy2k&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohoanghuy2k&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- System Design
-- Distributed Systems
-- AWS Cloud Architecture
-- AI Engineering
-- Performance Engineering
-- Scalable Backend Architecture
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/hohoanghuy2k">
+  <a href="https://github.com/hoanghuyho2k">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/huyho27">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
