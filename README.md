@@ -1,88 +1,60 @@
-# Hi there, I'm Huy Ho 👋
+# Hi, I'm Huy Ho 👋
 
-<div align="center">
+## Graduate Backend Software Engineer
 
-### Backend Developer | Software Engineering Student | AI & Cloud Enthusiast
+Melbourne-based software engineer completing a **Master of Information Technology (Software Development)** at Swinburne University in 2026.
 
-</div>
+I have commercial backend experience from **Focus Bear**, where I contributed to production services using **TypeScript, NestJS, PostgreSQL, Redis, BullMQ and AWS**. I enjoy backend engineering, APIs, asynchronous systems, debugging, cloud applications and integrating complex software components.
 
----
+### Core technologies
 
-## 🛠 Tech Stack
+**Languages:** TypeScript · JavaScript · Python · Java · SQL  
+**Backend:** Node.js · NestJS · FastAPI · Flask · REST APIs  
+**Data:** PostgreSQL · Redis · MySQL · MongoDB  
+**Cloud & DevOps:** AWS · Docker · Linux · Git · CI/CD · CloudWatch  
+**Engineering:** Automated testing · Debugging · Observability · Code review · Agile
 
-### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square)
+## Experience
 
-### Backend & Cloud
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![BullMQ](https://img.shields.io/badge/-BullMQ-red?style=flat-square)
+### Backend Developer Intern — Focus Bear
+**Mar 2026 – Jun 2026**
 
-### Database & DevOps
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+- Contributed to production TypeScript/NestJS backend services.
+- Refactored onboarding work into idempotent BullMQ background jobs and added automated tests.
+- Implemented join-code business logic covering active, expired, depleted and deactivated states with automated tests.
+- Investigated API latency using instrumentation, AWS CloudWatch and Sentry.
+- Worked with Auth0, Stripe and RevenueCat integrations in an existing production codebase.
 
-### Frontend & Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+## Featured projects
 
----
+### 🚦 AI-Powered Traffic Incident Decision Support
+**Role: Backend / Integration Lead**
 
-## 📌 Featured Projects
+Operator-in-the-loop decision-support platform combining **Flask, NSGA-II optimisation, SUMO simulation and LLM-assisted decision support**.
 
-### 🧠 SACA — Adaptive Clinical Assistant
-AI-powered triage assistant for remote Indigenous communities.
+My contributions include runtime status/debug APIs, pause/resume optimisation control, results integration, frontend/backend integration and debugging across simulation and application boundaries.
 
-**Tech:** FastAPI, Python, Machine Learning, Flutter
+[View repository](https://github.com/hoanghuyho2k/COS80029-Project)
 
-Features:
-- Symptom severity prediction
-- NLP symptom translation
-- Voice & multilingual support
-- Clinical follow-up assessment system
+### 🩺 SACA — Adaptive Clinical Assistant
+**Role: Backend Developer**
 
----
+Multilingual clinical-assessment prototype using **FastAPI, Python, Flutter and machine learning**. Backend work includes symptom assessment APIs, feature processing, emergency-rule handling and integration with the client application.
 
-### ⚡ Focus Bear Backend Contributions
-Production backend engineering contributions involving:
-- Queue-based onboarding architecture
-- Auth0 performance investigations
-- API optimization
-- CloudWatch log analysis
-- Sentry tracing instrumentation
+[View repository](https://github.com/hoanghuyho2k/SACA)
 
-**Tech:** NestJS, BullMQ, AWS, Redis, PostgreSQL
+### 🛡️ Sentinel — Release Governance Platform
 
----
+Full-stack engineering prototype using **FastAPI, React and Docker** to analyse software-change data and support release-governance decisions.
 
-## 🤝 Connect With Me
+[View repository](https://github.com/hoanghuyho2k/sentinel)
 
-<p align="left">
-  <a href="https://github.com/hoanghuyho2k">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/huyho27">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+## Currently improving
 
----
+I am strengthening my **Java / Spring Boot** backend engineering skills and building toward a production-style project demonstrating authentication, PostgreSQL, Redis, messaging, Docker, testing, CI/CD and cloud deployment.
 
-## 💡 Quote I Like
+## Connect
 
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-</div>
+- Portfolio: [huyhowork.online](https://huyhowork.online)
+- LinkedIn: [linkedin.com/in/huyho27](https://www.linkedin.com/in/huyho27)
+- GitHub: [github.com/hoanghuyho2k](https://github.com/hoanghuyho2k)
